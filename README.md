@@ -1,3 +1,4 @@
+Implemented using Array,LinkedList and B-plus Tree.
 The given problem statement was
 You are assigned with a task of developing an application for the smart car parking lot system. The car parking 
 lot has 50 parking spaces with parking space ID ranging from 1 to 50 and it can accommodate 50 cars at a time. 
