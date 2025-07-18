@@ -4,9 +4,7 @@ You are assigned with a task of developing an application for the smart car park
 lot has 50 parking spaces with parking space ID ranging from 1 to 50 and it can accommodate 50 cars at a time. 
 The status of each parking space is either 0 or 1. 0 indicates that the parking space is free. 1 indicates that the 
 parking space is occupied. The parking lot provides discounts and additional benefits if the users (vehicle 
-owners) have any membership. 
-Use Linked Lists. 
-Hint: You may need to store entries for parked vehicles and status of parking spaces separately. 
+owners) have any membership.  
 1. Every time a car enters the parking lot; the following details need to be stored in the database. (This is 
 done only if the parking lot has available free parking spaces.) 
 a. If the vehicle is entering the parking lot for the first time, the details of the vehicle should be 
